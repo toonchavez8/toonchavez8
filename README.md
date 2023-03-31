@@ -1,5 +1,5 @@
 
-                    
+                    <a href="https://app.daily.dev/toonchavez8"><img src="https://api.daily.dev/devcards/ad83ff91b05942079fa948a48f5da454.png?r=f9z" width="400" alt="Miguel Chavez's Dev Card"/></a>
 
 <h1> Miguel Chavesz</h1>
 <br /> 
@@ -76,7 +76,6 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
 <a href="https://instagram.com/toonchavez8" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toonchavez8" /></a>
 <a href="https://www.linkedin.com/in/toonchavez8/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
