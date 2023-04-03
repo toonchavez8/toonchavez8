@@ -1,18 +1,27 @@
 
            
-<h1> Miguel Chavesz</h1>
+<h1 align="center"> Miguel Chavez</h1>
+<p align="center">Front End Developer</p>
 <br /> 
 
+<div align="center">
+    <table border="0">
+     <tr>
+       <td><p align="left">I'm a web developer with a passion for creating innovative digital experiences. I specialize in building responsive websites and efficient back-end systems, always pushing boundaries with new technology. Outside of coding, I enjoy filmmaking, cooking and motion design. Let's bring your project to life!
+
+</p></td>
+        <td style="border:0;"> <a href="https://app.daily.dev/toonchavez8"><img src="https://api.daily.dev/devcards/ad83ff91b05942079fa948a48f5da454.png?r=f9z" width="400" alt="Miguel Chavez's Dev Card"/></a></td>
+     </tr>
+    </table>
+</div>
                     
-`**Digital Craftsman (Developer / Programmer)**`
+
 
                     
 
-<p align="left">I'm a web developer with a passion for creating innovative digital experiences. I specialize in building responsive websites and efficient back-end systems, always pushing boundaries with new technology. Outside of coding, I enjoy filmmaking, cooking and motion design. Let's bring your project to life!
 
-</p>
 
-<a href="https://app.daily.dev/toonchavez8"><img src="https://api.daily.dev/devcards/ad83ff91b05942079fa948a48f5da454.png?r=f9z" width="400" alt="Miguel Chavez's Dev Card"/></a>
+
 <p align="left"> 
   <a href="https://github.com/toonchavez8?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/toonchavez8?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -73,7 +82,6 @@
 <br />
 
 
-                    
 
 <h2>Connect With Me</h2> 
 <p align="left">
