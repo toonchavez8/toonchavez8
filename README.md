@@ -73,16 +73,6 @@
 ---
 
 
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/toonchavez8/Portfolio_Chavez_Miguel#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toonchavez8&repo=Portfolio_Chavez_Miguel&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/toonchavez8/Portfolio_Chavez_Miguel#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toonchavez8&repo=Portfolio_Chavez_Miguel&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://instagram.com/toonchavez8" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toonchavez8" /></a>
