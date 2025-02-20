@@ -46,7 +46,6 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/toonchavez8#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=toonchavez8&theme=nightowl#gh-dark-mode-only" alt="toonchavez8" /></a>
 <a href="https://github.com/toonchavez8#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=toonchavez8&theme=vue#gh-light-mode-only" alt="toonchavez8" /></a></p>
 <br/>
 
